@@ -18,4 +18,5 @@
                                        :snapshots true
                                        :releases {:checksum :fail :update :always}}}
   :checksum-deps true
-  :java-source-paths ["src"])
+  :java-source-paths ["src"]
+  :protobuf-version "2.5.0")
