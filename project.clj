@@ -1,4 +1,4 @@
-(defproject org.pingles/protobuf "0.7.3-2.5.0-SNAPSHOT"
+(defproject org.pingles/protobuf "0.7.3-2.5.0"
   :description "Clojure-protobuf provides a clojure interface to Google's protocol buffers."
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
